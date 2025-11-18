@@ -44,7 +44,7 @@ Implemented HOG and SVM to detect jaundice levels using machine learning.
 ---
 
 ## 📫 Contact Me  
-📧 **Email:** mani010903@gmail.com  
+📧 **Email:** manigupta617291@gmail.com 
 📍 **Location:** Bengaluru, India  
 
 ---
