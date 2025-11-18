@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mani Gupta  
 
-### Java Developer | Full Stack Learner | Problem Solver  
+### Java | Full Stack Learner | Problem Solver  
 
 I’m a Computer Science graduate passionate about building applications using **Java, SQL, HTML, CSS, Python, and JDBC**.  
 I enjoy working on real-world projects, improving my skills, and developing clean, efficient applications.
