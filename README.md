@@ -11,7 +11,7 @@ I enjoy working on real-world projects, improving my skills, and developing clea
 - **Programming:** Java, Python, C  
 - **Web:** HTML, CSS  
 - **Database:** SQL, JDBC  
-- **Tools:** Git, GitHub, VS Code, Eclipse, IntelliJ  
+- **Tools:** JDBC,jupyter Notebook VS Code, Eclipse 
 - **Libraries/Tech:** Swing, OpenCV, Pygame
 
 ---
