@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Mani Gupta  
 
-<!--
-**Mani010903/Mani010903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Developer | Full Stack Learner | Problem Solver  
 
-Here are some ideas to get you started:
+I’m a Computer Science graduate passionate about building applications using **Java, SQL, HTML, CSS, Python, and JDBC**.  
+I enjoy working on real-world projects, improving my skills, and developing clean, efficient applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills  
+- **Programming:** Java, Python, C  
+- **Web:** HTML, CSS  
+- **Database:** SQL, JDBC  
+- **Tools:** Git, GitHub, VS Code, Eclipse, IntelliJ  
+- **Libraries/Tech:** Swing, OpenCV, Pygame
+
+---
+
+## 📌 Featured Projects  
+
+### 🔹 Student Management System (Java + JDBC + Swing + SQL)  
+A full desktop application to add, update, delete, search, and manage student records.
+
+### 🔹 Weather App  
+A simple weather checking application using API integration.
+
+### 🔹 Smart Doorbell (IoT Project)  
+Detects visitors using sensors and sends notifications.
+
+### 🔹 Snake Game  
+A fun arcade-style game built using Python and Pygame.
+
+### 🔹 Neonatal Jaundice Detection (ML Project)  
+Implemented HOG and SVM to detect jaundice levels using machine learning.
+
+---
+
+## 📈 GitHub Stats  
+
+![Mani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mani010903&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mani010903&layout=compact)
+
+---
+
+## 📫 Contact Me  
+📧 **Email:** mani010903@gmail.com  
+📍 **Location:** Bengaluru, India  
+
+---
+
+⭐ Feel free to check out my repositories and leave a star if you like my work!
